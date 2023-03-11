@@ -1,2 +1,2 @@
-ls -ltr
 cat
+ls -ltr
